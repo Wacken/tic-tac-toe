@@ -1,0 +1,7 @@
+*.json
+/.cider-repl-history
+/test/tic_tac_to/.cider-repl-history
+/target/
+/.nrepl-port
+/README.md
+/src/tic_tac_to/.cider-repl-history
